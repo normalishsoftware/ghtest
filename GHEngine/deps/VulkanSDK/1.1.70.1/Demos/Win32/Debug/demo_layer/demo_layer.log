@@ -1,0 +1,7 @@
+﻿  layer_factory.cpp
+  demo.cpp
+  Generating Code...
+     Creating library C:\VulkanSDK\1.1.70.1\Demos\Win32\Debug\VkLayer_demo_layer.lib and object C:\VulkanSDK\1.1.70.1\Demos\Win32\Debug\VkLayer_demo_layer.exp
+  demo_layer.vcxproj -> C:\VulkanSDK\1.1.70.1\Demos\Win32\Debug\VkLayer_demo_layer.dll
+  C:\VulkanSDK\1.1.70.1\Demos\VkLayer_demo_layer.json
+  1 File(s) copied

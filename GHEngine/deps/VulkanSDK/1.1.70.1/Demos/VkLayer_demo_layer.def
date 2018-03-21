@@ -1,0 +1,6 @@
+LIBRARY VkLayer_demo_layer 
+EXPORTS 
+vkGetInstanceProcAddr 
+vkGetDeviceProcAddr 
+vkEnumerateInstanceLayerProperties 
+vkEnumerateInstanceExtensionProperties 
